@@ -1,0 +1,13 @@
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\ABB PCinterface.exe.config
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\ABB PCinterface.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\ABB PCinterface.pdb
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\ABB.Robotics.Controllers.PC.dll
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\RobotStudio.Services.RobApi.dll
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\bin\Debug\ABB.Robotics.Controllers.PC.xml
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB PCinterface.csprojResolveAssemblyReference.cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB_PCinterface.Form1.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB_PCinterface.Properties.Resources.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB PCinterface.csproj.GenerateResource.Cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB PCinterface.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ABB PCinterface\ABB PCinterface\obj\Debug\ABB PCinterface.pdb

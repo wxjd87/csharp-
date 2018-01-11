@@ -1,0 +1,64 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="850" Width="825">
+    <Grid KeyDown="Grid_KeyDown" PreviewKeyDown="Grid_previewKeyDown" Margin="0,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="133*"/>
+            <RowDefinition Height="278*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="263*"/>
+            <ColumnDefinition Width="208*"/>
+            <ColumnDefinition Width="346*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" HorizontalAlignment="Right" Margin="0,25,52,0" VerticalAlignment="Top" Width="75" Click="Button_Click" PreviewKeyDown="Btn_PreviewKeyDown" RenderTransformOrigin="1.202,1.226" Height="22" Grid.Column="1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-27.967"/>
+                    <TranslateTransform X="1.339" Y="-26.556"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button x:Name="rotatedButton" Content="3rdButton" FontWeight="Bold" Margin="112,35,146,209" RenderTransformOrigin="0.0,0.0" Grid.Column="2" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Canvas HorizontalAlignment="Left" Height="154" Margin="43,76,0,0" VerticalAlignment="Top" Width="167" Background="Green" >
+            <Button Content="Button" Canvas.Left="38" Canvas.Top="53" Width="75"/>
+            <Button Content="Button" Canvas.Left="38" Canvas.Top="95" Width="75"/>
+        </Canvas>
+        <Border BorderBrush="Red" BorderThickness="1" HorizontalAlignment="Left" Height="173" Margin="18,76,0,0" VerticalAlignment="Top" Width="166" Grid.Column="1">
+            <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="43,55,0,0" Height="53"/>
+        </Border>
+        <DockPanel  HorizontalAlignment="Left" Height="154" LastChildFill="False" Margin="43,25,0,0" VerticalAlignment="Top" Width="192" Background="Aqua" Grid.Row="1">
+            <Button DockPanel.Dock="Right" Padding="0" Margin="010" Content="_Button" Height="24" VerticalAlignment="Bottom" Width="75"/>
+            <Button Content="Button" Height="24" VerticalAlignment="Top" Width="75"/>
+        </DockPanel>
+
+        <StackPanel Background="Aquamarine" HorizontalAlignment="Left" Height="154" Margin="18,25,0,0" VerticalAlignment="Top" Width="166" Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+            <Button Content="Button" Height="29"/>
+            <Button Content="Button"/>
+            <ScrollViewer Height="100"/>
+        </StackPanel>
+        <WrapPanel  Background="Bisque" HorizontalAlignment="Left" Height="173" Margin="12,76,0,0" VerticalAlignment="Top" Width="322" Grid.Column="2">
+            <Rectangle Fill="Yellow" Height="50" Stroke="Black" Width="100" />
+            <Rectangle Fill="Green" Height="50" Stroke="Black" Width="100"/>
+            <Rectangle Fill="Red" Height="50" Stroke="Black" Width="100"/>
+        </WrapPanel>
+        <Label Content="_A1" HorizontalAlignment="Left" Margin="43,222,0,0" Grid.Row="1" VerticalAlignment="Top" Height="30" Width="71" Background="Chartreuse"/>
+        <ScrollViewer Grid.Column="2" HorizontalAlignment="Left" Height="100" Margin="25,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100">
+            <TextBlock TextWrapping="Wrap" Text="TextBlock 联系我们大家，如果遇到任何危险，这里是个温暖的家，请记住大家都是你的朋友，all right？"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

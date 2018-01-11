@@ -1,0 +1,17 @@
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\bin\Debug\WpfKarliCards GUI.exe.config
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\bin\Debug\WpfKarliCards GUI.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\bin\Debug\WpfKarliCards GUI.pdb
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI.csprojResolveAssemblyReference.cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\About.baml
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\MainWindow.baml
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\About.g.cs
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\MainWindow.g.cs
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\App.g.cs
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI_MarkupCompile.cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI.g.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards_GUI.Properties.Resources.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI.csproj.GenerateResource.Cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\WpfKarliCards GUI.pdb
+C:\Users\wxjd87.wxjd87-PC\Documents\Visual Studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\Options.baml
+C:\Users\wxjd87.wxjd87-PC\Documents\Visual Studio 2013\Projects\WpfKarliCards GUI\WpfKarliCards GUI\obj\Debug\Options.g.cs

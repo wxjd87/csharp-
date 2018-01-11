@@ -1,0 +1,9 @@
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe.config
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.Form1.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.Properties.Resources.resources
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.GenerateResource.Cache
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.exe
+c:\users\wxjd87.wxjd87-pc\documents\visual studio 2013\Projects\ThreadTest\ThreadTest\obj\Debug\ThreadTest.pdb
